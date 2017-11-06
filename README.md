@@ -16,6 +16,7 @@ Prior to running these notebooks, various Python packages need to be installed. 
 
 These examples include the following hands on demonstrations:
 
+* A refresher on ways to import local data files using native file objects,  `csv`, `numpy`, and `pandas`
 * Accessing web-hosted csv and txt files directly using `pandas`
 * Fetching files on a web server with `urllib`
 * Fetching files on an ftp server with `ftplib`
