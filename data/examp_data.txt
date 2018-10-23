@@ -1,4 +1,4 @@
-x,y,z
-1,2,3
-2,2.4,6
-3,1.9,8
+Athlete,height,weight,birthday
+"Jean Baptiste",75,210,3/31/1995
+"Jason",70,170,2/21/1997
+"Ellie",64,130,10/18/1992
