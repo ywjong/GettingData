@@ -1,1 +1,16 @@
+#Ignore notebook checkpoints
 *.ipynb_checkpoints
+
+#Ignore script outputs
+data/NCWaterData.csv
+WaterData
+StreamCat
+OtherNotebooks/NCDEQ
+
+map.jpg
+tl_2017_38_tract.zip
+tl_2017_38_tract/*
+LNDCVR*/*
+NHD*/*
+*.zip
+Happiness.csv
