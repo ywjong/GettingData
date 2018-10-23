@@ -1,4 +1,4 @@
-Athlete,height,weight
-"Jean Baptiste",75,210
-"Jason",70,170
-"Ellie",64,130
+id,x,y
+1,22,33
+2,2.4,6.8
+3,1.9,8.0
