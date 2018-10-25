@@ -1,7 +1,7 @@
 ---
 Title: "Automating Data Download with Python"
 Author: "John Fay"
-Date: "Fall 2017"
+Date: "Fall 2018"
 ---
 
 # Getting Data
@@ -10,7 +10,7 @@ These are some notebooks demonstrating various ways to download data using Pytho
 
 
 
-Prior to running these notebooks, various Python packages need to be installed. The `ArcGISPostInstall.bat` batch file located in the Installation folder should take care of installing all necessary packages. 
+Prior to running these notebooks, various Python packages need to be installed. See https://env859.github.io/environ859/BeyondArcPy1_GettingData.html for instructions how to do this. 
 
 
 
