@@ -10,7 +10,7 @@ These are some notebooks demonstrating various ways to download data using Pytho
 
 
 
-Prior to running these notebooks, various Python packages need to be installed. See https://env859.github.io/environ859/BeyondArcPy1_GettingData.html for instructions how to do this. 
+Prior to running these notebooks, various Python packages need to be installed. See [this link](https://env859.github.io/environ859/BeyondArcPy1_GettingData.html) for instructions how to do this. 
 
 
 
