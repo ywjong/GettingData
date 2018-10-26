@@ -14,3 +14,11 @@ LNDCVR*/*
 NHD*/*
 *.zip
 Happiness.csv
+
+ArcGISAPI/apidoc
+ArcGISAPI/guide
+ArcGISAPI/labs
+ArcGISAPI/samples
+ArcGISAPI/Sandbox
+ArcGISAPI/static
+ArcGISAPI/talks
